@@ -1,5 +1,5 @@
 Foosball
-=======
+========
 
 A java port of [Foosball9000](https://github.com/Mech0z/Foosball9000).
 
